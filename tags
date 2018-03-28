@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+clsRange	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	249;"	kind:function	line:249	language:C	signature:(int xi, int yi, int xf, int yf)
+dataOutput	E:\ไฟล์เรียน\CPE100\code\assign4_edit.c	80;"	kind:function	line:80	language:C	signature:(double sx, double sy, double sg, double tx, double ty, double tg, double x, double u, double z)
+dataOutputWindows	E:\ไฟล์เรียน\CPE100\code\assign4_edit.c	110;"	kind:function	line:110	language:C	signature:(double sx, double sy, double sg, double tx, double ty, double tg, double x, double u, double z)
+fact	E:\ไฟล์เรียน\CPE100\code\assign5.c	132;"	kind:function	line:132	language:C	signature:(int n)
+fact	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	321;"	kind:function	line:321	language:C	signature:(int n)
+fibo	E:\ไฟล์เรียน\CPE100\code\assign5.c	140;"	kind:function	line:140	language:C	signature:(int n, double fiboMemo[])
+fibo	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	329;"	kind:function	line:329	language:C	signature:(int n, double fiboMemo[])
+gcd	E:\ไฟล์เรียน\CPE100\code\assign5.c	164;"	kind:function	line:164	language:C	signature:(int x, int y)
+gcd	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	353;"	kind:function	line:353	language:C	signature:(int x, int y)
+getInt	E:\ไฟล์เรียน\CPE100\code\assign5.c	120;"	kind:function	line:120	language:C	signature:(int min, int max)
+getInt	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	273;"	kind:function	line:273	language:C	signature:(int min, int max, int errorLine)
+getMenuItem	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	235;"	kind:function	line:235	language:C
+gotoXY	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	262;"	kind:function	line:262	language:C	signature:(int x,int y)
+historyHandling	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	286;"	kind:function	line:286	language:C	signature:(char history[][100], char appendMsg[], int* head, int* tail, int* size)
+initScreen	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	212;"	kind:function	line:212	language:C
+lcm	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	373;"	kind:function	line:373	language:C	signature:(int x,int y)
+main	E:\ไฟล์เรียน\CPE100\code\Untitled2.c	4;"	kind:function	line:4	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign1.c	4;"	kind:function	line:4	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign1_original.c	4;"	kind:function	line:4	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign3.c	5;"	kind:function	line:5	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign4.c	4;"	kind:function	line:4	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign4_edit.c	12;"	kind:function	line:12	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign4_edit2.c	11;"	kind:function	line:11	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign5.c	14;"	kind:function	line:14	language:C
+main	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	20;"	kind:function	line:20	language:C
+main	E:\ไฟล์เรียน\CPE100\code\format.c	4;"	kind:function	line:4	language:C
+menu	E:\ไฟล์เรียน\CPE100\code\assign5.c	102;"	kind:function	line:102	language:C
+ncr	E:\ไฟล์เรียน\CPE100\code\assign5.c	189;"	kind:function	line:189	language:C	signature:(int n, int r)
+ncr	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	383;"	kind:function	line:383	language:C	signature:(int n, int r)
+npr	E:\ไฟล์เรียน\CPE100\code\assign5.c	184;"	kind:function	line:184	language:C	signature:(int n, int r)
+npr	E:\ไฟล์เรียน\CPE100\code\assign5_edit.c	378;"	kind:function	line:378	language:C	signature:(int n, int r)
+showAnimation	E:\ไฟล์เรียน\CPE100\code\assign4_edit2.c	105;"	kind:function	line:105	language:C	signature:(double sg, double tg, double sx, double x)
